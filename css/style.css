@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto|Ubuntu&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Oxygen&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Almarai|Cabin:600|Poppins:300&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Prociono&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet");
+
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/btn-white.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+
+
+body {
+	font-family: 'Nunito', sans-serif;
+	font-size: 12px;
+	margin: 0px;
+	font-weight: lighter;
+	letter-spacing: 0.5px;
+	line-height: 20px;
+}
+h1, h2, h3{
+	font-family: 'Prociono', serif;
+	font-weight: lighter;
+	letter-spacing: 1px;
+}
+a{
+	text-decoration: none;
+	transition: color 3s ease;
+
+}
+ul{
+	text-decoration: none;
+}
+
+
